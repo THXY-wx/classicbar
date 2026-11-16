@@ -1,0 +1,21 @@
+{
+	"modListVersion": 2,
+	"modList": [{
+		"modid": "${modId}",
+		"name": "${modName}",
+		"description": "Replaces the traditional icon rows in the HUD with icon bars. 1.7.10 / GT New Horizons port of ClassicBar.",
+		"version": "${modVersion}",
+		"mcversion": "${minecraftVersion}",
+		"url": "https://github.com/Tfarcenim/ClassicBar",
+		"updateUrl": "",
+		"authorList": ["Tfarecnim", "GTNH port"],
+		"credits": "Ported to Minecraft 1.7.10 for GT New Horizons 2.9.0",
+		"logoFile": "",
+		"screenshots": [],
+		"parent": "",
+		"requiredMods": [],
+		"dependencies": [],
+		"dependants": [],
+		"useDependencyInformation": false
+	}]
+}
