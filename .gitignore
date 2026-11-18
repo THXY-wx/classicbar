@@ -102,3 +102,6 @@ addon.late.local.gradle.kts
 *.ipr
 *.iws
 layout.json
+
+# local release staging
+dist/
